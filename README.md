@@ -8,9 +8,9 @@ ScratchやUnityを現在やっています。
 
 
 
-[サイトリンク（Google サイト）](https://www.honnkon.f5.si)
+[サイトリンク（Gihubで作成）](https://www.honnkon.tech)
 
-[サイトリンク（Gihubで作成）](https://page.honnkon.f5.si)
+[サイトリンク（Google サイト）](https://page.honnkon.tech)
 
 <!---
 honnkon/honnkon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
